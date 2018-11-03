@@ -5,3 +5,4 @@
 O objetivo do trabalho é praticar a implementação de Sockets, tanto TCP quando UDP;
 
 - Atividade 2:
+
