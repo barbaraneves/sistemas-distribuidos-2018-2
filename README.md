@@ -1,2 +1,7 @@
-# SD
-Trabalhos feitos para a disciplina de Sistemas Distribuídos, semestre 2018.2, Universidade Federal do Ceará - Campus Quixadá.
+# Repositório que contém as atividades da disciplina de Sistemas Distribuídos
+
+- Atividade 1: prática com Sockets.
+
+O objetivo do trabalho é praticar a implementação de Sockets, tanto TCP quando UDP;
+
+- Atividade 2:
