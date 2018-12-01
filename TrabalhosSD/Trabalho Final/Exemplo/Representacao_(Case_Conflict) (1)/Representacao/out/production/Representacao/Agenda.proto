@@ -1,0 +1,31 @@
+package representacao;
+
+option java_package = "com.representacao";
+option java_outer_classname = "Person";
+
+message Pessoa{
+	
+
+required string nome = 1;
+required string endereco = 2;
+required string numeroDeTelefone = 3;
+
+
+}
+
+message Resultado{
+
+required string resultado = 1;
+
+}
+
+
+message Modelo{
+
+required int32 messageType = 1;
+required int32 requestId = 2;
+required string objectReference = 3;
+required string methodId = 4;
+required bytes arguments = 5;
+
+}
