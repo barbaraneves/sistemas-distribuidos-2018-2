@@ -4,5 +4,6 @@
 
 O objetivo do trabalho é praticar a implementação de Sockets, tanto TCP quando UDP;
 
-- Atividade 2:
+- Atividade 2: 
 
+Trabalho Final -> Sistema simples de uma Biblioteca via cliente-servidor utilizando Java, Python e JSON.
