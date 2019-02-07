@@ -1,9 +1,17 @@
-# Repositório que contém as atividades da disciplina de Sistemas Distribuídos
+# Sistemas Distribuídos
 
-- Atividade 1: prática com Sockets.
+Repositório que contém as atividades da disciplina de Sistemas Distribuídos.
 
-O objetivo do trabalho é praticar a implementação de Sockets, tanto TCP quando UDP;
+## Tecnologias
 
-- Atividade 2: 
+Java, Python e JSON.
 
-Trabalho Final -> Sistema simples de uma Biblioteca via cliente-servidor utilizando Java, Python e JSON.
+### Atividade 1 
+
+Prática com ```Sockets```.
+
+O objetivo do trabalho é praticar a implementação de ```Sockets```, tanto ```TCP``` quando ```UDP```;
+
+### Atividade 2 
+
+Sistema simples de uma Biblioteca via cliente-servidor.
